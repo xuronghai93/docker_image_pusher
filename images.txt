@@ -29,7 +29,7 @@
 
 
 #rabbitmq:latest
-rancher/rancher:latest
+#rancher/rancher:latest
 
 #k8s
 #docker.io/library/redis:7.0.14-alpine
@@ -61,4 +61,4 @@ rancher/rancher:latest
 #quay.mirrors.ustc.edu.cn/prometheus/node-exporter:v1.3.1
 #quay.mirrors.ustc.edu.cn/prometheus/node-exporter:v1.5.0
 
-jenkins/jenkins:latest
+jenkins/jenkins:2.452.3
