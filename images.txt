@@ -61,4 +61,5 @@
 #quay.mirrors.ustc.edu.cn/prometheus/node-exporter:v1.3.1
 #quay.mirrors.ustc.edu.cn/prometheus/node-exporter:v1.5.0
 
-jenkins/jenkins:2.452.3
+#jenkins/jenkins:2.452.3
+rancher/rancher:v2.9-head
