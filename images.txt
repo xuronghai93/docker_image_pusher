@@ -5,8 +5,7 @@
 #jenkins/jenkins:2.346.3
 
 openjdk:8u191-alpine3.8
-openjdk:17-jdk-alpine
-
+eclipse-temurin:17-jre-slim
 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
 #nginx:latest
