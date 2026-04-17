@@ -3,9 +3,7 @@
 #jenkins/jenkins:2.361.4
 #openzipkin/zipkin:latest
 #jenkins/jenkins:2.346.3
-openjdk:8-jdk
-openjdk:17-jdk
-openjdk:17-jdk-slim
+openjdk:8
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
 #nginx:latest
 #nacos/nacos-server:latest
