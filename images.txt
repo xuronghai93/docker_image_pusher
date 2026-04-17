@@ -3,8 +3,8 @@
 #jenkins/jenkins:2.361.4
 #openzipkin/zipkin:latest
 #jenkins/jenkins:2.346.3
-#openjdk:8
-#openjdk:11
+openjdk:8
+openjdk:11
 
 openjdk:17
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
@@ -27,7 +27,7 @@ openjdk:17
 #kibana:7.8.0
 #elasticsearch:7.8.0
 #elastic/filebeat:7.8.0
-#mysql:8.0.12
+mysql:8.0.12
 
 
 #rabbitmq:latest
