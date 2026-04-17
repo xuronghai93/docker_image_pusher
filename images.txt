@@ -5,6 +5,8 @@
 #jenkins/jenkins:2.346.3
 #openjdk:8
 #openjdk:11
+openjdk:17-jdk-slim
+openjdk:17
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
 #nginx:latest
 #nacos/nacos-server:latest
