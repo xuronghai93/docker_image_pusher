@@ -3,7 +3,8 @@
 #jenkins/jenkins:2.361.4
 #openzipkin/zipkin:latest
 #jenkins/jenkins:2.346.3
-tomcat:7-jdk7
+theadrum/tomcat:jdk_7_tomcat_7
+
 openjdk:8u191-alpine3.8
 eclipse-temurin:17-jdk
 
