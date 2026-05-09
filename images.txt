@@ -7,7 +7,7 @@ theadrum/tomcat:jdk_7_tomcat_7
 
 openjdk:8u191-alpine3.8
 eclipse-temurin:17-jdk
-
+mysql:5.1.73
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
 #nginx:latest
 #nacos/nacos-server:latest
